@@ -114,8 +114,8 @@ p {
 }
 .carousel-item img {
   border-radius: 30px;
-  width: 200px;
-  height: 150px;
+  width: 70vw;
+  height: 80vh;
   overflow: hidden;
   position: relative;
   object-fit: cover;
