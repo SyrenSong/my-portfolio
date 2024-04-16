@@ -98,10 +98,13 @@ p {
   top: -50px;
 }
 
-#skills-target,
-#project-target {
+#skills-target {
   position: relative;
   top: -100px;
+}
+#project-target {
+  position: relative;
+  top: -150px;
 }
 #contact-section {
   padding: 50px 0;
