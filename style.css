@@ -126,7 +126,8 @@ p {
   text-shadow: 1px 1px 2px black;
   background-color: #9cbcce;
   border-radius: 10px;
-  width: 300px;
+  width: 200px;
+  margin: 20px auto;
 }
 .carousel-section {
   background-color: #9cbcce;
