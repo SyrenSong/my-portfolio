@@ -144,3 +144,7 @@ a:visited {
 a:hover {
   color: #e1edf4;
 }
+.code-button {
+  background-color: #9cbcce;
+  border-radius: 10px;
+}
