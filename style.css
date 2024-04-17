@@ -114,8 +114,8 @@ p {
 }
 .carousel-item img {
   border-radius: 30px;
-  max-width: 80vw;
-  height: 60vh;
+  max-width: 60vw;
+  height: 80vh;
   overflow: hidden;
   position: relative;
   object-fit: cover;
@@ -144,6 +144,6 @@ a:hover {
   color: #9cbcce;
 }
 span.code-button {
-  display: inline;
-  background-color: #9cbcce;
+  background-color: #6597b3;
+  border-radius: 10px;
 }
