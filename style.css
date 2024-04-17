@@ -131,7 +131,7 @@ p {
   margin: 0 50px 50px 50px;
   border-radius: 20px;
 }
-a {
+a.code-button {
   color: #496474;
   display: inline;
 }
@@ -142,9 +142,5 @@ a:visited {
   text-decoration: none;
 }
 a:hover {
-  color: #e1edf4;
-}
-.code-button {
-  background-color: #9cbcce;
-  border-radius: 10px;
+  color: #9cbcce;
 }
